@@ -1,3 +1,6 @@
-# test
+## Data analysis projects listing
 
-<a href="https://vinaychuri.github.io/test/cars.html"> New file</a>
+<ul>
+  <li>Data analysis on the Kaggle Titanic data sets
+    <a href="https://vinaychuri.github.io/test/titanic.html" target="_blank"></a>
+  </li>
