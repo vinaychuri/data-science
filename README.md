@@ -9,6 +9,9 @@
   </li>
   <li><a href="https://vinaychuri.github.io/data-science/ford_ebikes.nb.html" target="_blank">Reviews Ford e-bikes in SF city </a>
   </li>
+  </li>
+  <li><a href="https://vinaychuri.github.io/data-science/terrorist_attacks_tree.nb.html" target="_blank">Global Terrorist Attacks </a>
+  </li>
   
   
   
