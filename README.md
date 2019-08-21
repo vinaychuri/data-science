@@ -22,7 +22,7 @@
   <li><a href="https://vinaychuri.github.io/data-science/eda_ios_apps_v2.nb.html" target="_blank">Analysis of IOS Facebook app across US/IN/GB markets </a>
   </li>
   
-  <li><a href="https://vinaychuri.github.io/data-science/india_census.nb.html" target="_blank">Analysis on India Census Data 2011 </a>
+  <li><a href="https://vinaychuri.github.io/data-science/india_census.html" target="_blank">Analysis on India Census Data 2011 </a>
   </li>
   
   
