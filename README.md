@@ -18,6 +18,13 @@
   
   <li><a href="https://vinaychuri.github.io/data-science/us_foreign_aid.nb.html" target="_blank">US Foreign Aid </a>
   </li>
+  
+  <li><a href="https://vinaychuri.github.io/data-science/eda_ios_apps_v2.nb.html" target="_blank">Analysis of IOS Facebook app across US/IN/GB markets </a>
+  </li>
+  
+  
+  
+  
 
 </ul>
 
