@@ -1,6 +1,6 @@
 ## Data analysis projects listing
 
-<ul>
+<ol>
   <li><a href="https://vinaychuri.github.io/data-science/titanic.html" target="_blank">Data analysis on the Kaggle Titanic data sets </a>
   </li>
   
@@ -22,11 +22,14 @@
   <li><a href="https://vinaychuri.github.io/data-science/eda_ios_apps_v2.nb.html" target="_blank">Analysis of IOS Facebook app across US/IN/GB markets </a>
   </li>
   
+  <li><a href="https://vinaychuri.github.io/data-science/india_census.nb.html" target="_blank">Analysis on India Census Data 2011 </a>
+  </li>
+  
   
   
   
 
-</ul>
+</ol>
 
   
   
